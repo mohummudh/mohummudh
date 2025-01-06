@@ -1,7 +1,7 @@
 # Hi there, I'm Mohammed.
 
 - PhD Artificial Intelligence at UoM, part of the AI for Decision Making in Complex Systems CDT (University of Manchester & University of Cambridge)
-- Working on neutrino physics
+- Neutrino physics and ML
 
 <!--
 **mohummudh/mohummudh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
